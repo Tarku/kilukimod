@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SapphireAdamantiteSword"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:AdamantiteSword"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "sapadasworecipe",
+    "namespace": "mod"
+  }
+}

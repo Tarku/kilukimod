@@ -1,0 +1,25 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "kilukimod:reinforcedstone"
+    },
+    {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    {
+      "item": "kilukimod:reinforcedstone"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:powercrystal",
+    "count": 1
+  }
+}

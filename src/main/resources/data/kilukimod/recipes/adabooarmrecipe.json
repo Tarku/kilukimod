@@ -1,0 +1,22 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:sapphirebar"
+    },
+    {
+      "item": "kilukimod:sapphirebar"
+    },
+    {
+      "item": "kilukimod:sapphirebar"
+    },
+    {
+      "item": "kilukimod:sapphirebar"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:sapphirearmorboots",
+    "count": 1
+  }
+}

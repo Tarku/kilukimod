@@ -1,0 +1,29 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:sapphirebar"
+    },
+    "1": {
+      "item": "kilukimod:sapphirebar"
+    },
+    "2": {
+      "item": "kilukimod:sapphirebar"
+    },
+    "3": {
+      "item": "kilukimod:sapphirebar"
+    },
+    "5": {
+      "item": "kilukimod:sapphirebar"
+    }
+  },
+  "result": {
+    "item": "kilukimod:sapphirearmorhelmet",
+    "count": 1
+  }
+}

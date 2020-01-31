@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/thermonite_bricks",
+    "up": "kilukimod:blocks/thermonite_bricks",
+    "north": "kilukimod:blocks/thermonite_bricks",
+    "east": "kilukimod:blocks/thermonite_bricks",
+    "south": "kilukimod:blocks/thermonite_bricks",
+    "west": "kilukimod:blocks/thermonite_bricks",
+    "particle": "kilukimod:blocks/thermonite_bricks"
+  }
+}

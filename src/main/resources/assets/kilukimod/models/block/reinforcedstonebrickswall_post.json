@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "kilukimod:blocks/reinforced_stonebricks",
+    "particle": "kilukimod:blocks/reinforced_stonebricks"
+  }
+}

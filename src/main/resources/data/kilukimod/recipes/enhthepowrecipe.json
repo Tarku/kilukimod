@@ -1,0 +1,22 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:thermonite_powder"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "kilukimod:thermonite_powder"
+    },
+    {
+      "item": "kilukimod:coalpowder"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:enhancedthermonitepowder",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/adamantite_bricks",
+    "up": "kilukimod:blocks/adamantite_bricks",
+    "north": "kilukimod:blocks/adamantite_bricks",
+    "east": "kilukimod:blocks/adamantite_bricks",
+    "south": "kilukimod:blocks/adamantite_bricks",
+    "west": "kilukimod:blocks/adamantite_bricks",
+    "particle": "kilukimod:blocks/adamantite_bricks"
+  }
+}

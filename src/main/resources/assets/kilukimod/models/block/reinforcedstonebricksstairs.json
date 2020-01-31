@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "kilukimod:blocks/reinforced_stonebricks",
+    "top": "kilukimod:blocks/reinforced_stonebricks",
+    "side": "kilukimod:blocks/reinforced_stonebricks"
+  }
+}

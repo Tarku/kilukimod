@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sapphro_adamantite_shovel",
+    "customModelName": "Normal",
+    "name": "Sapphire Adamantite Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 25.0,
+    "attackSpeed": 3.1,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 1850,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Sapphire"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "SapphireAdamantiteShovemRightClickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/reinforced_stone",
+    "up": "kilukimod:blocks/reinforced_stone",
+    "north": "kilukimod:blocks/reinforced_stone",
+    "east": "kilukimod:blocks/reinforced_stone",
+    "south": "kilukimod:blocks/reinforced_stone",
+    "west": "kilukimod:blocks/reinforced_stone",
+    "particle": "kilukimod:blocks/reinforced_stone"
+  }
+}

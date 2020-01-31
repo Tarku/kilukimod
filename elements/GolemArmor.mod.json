@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "golem_helm",
+    "enableBody": true,
+    "textureBody": "golem_body",
+    "enableLeggings": true,
+    "textureLeggings": "golem_legs",
+    "enableBoots": true,
+    "textureBoots": "golem_boots",
+    "onHelmetTick": {
+      "name": "GolemArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "GolemArmorHelmetTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "GolemArmorHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "GolemArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "golem_armor",
+    "helmetName": "Golem Helm",
+    "bodyName": "Golem Chestplate",
+    "leggingsName": "Golem Leggings",
+    "bootsName": "Golem Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 50,
+    "damageValueHelmet": 5,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 50,
+    "toughness": 2.3000000000000003,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:HALITE"
+      }
+    ]
+  }
+}

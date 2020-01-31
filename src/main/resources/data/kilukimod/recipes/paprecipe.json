@@ -1,0 +1,19 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:woodpulp"
+    },
+    {
+      "item": "kilukimod:woodpulp"
+    },
+    {
+      "item": "kilukimod:woodpulp"
+    }
+  ],
+  "result": {
+    "item": "minecraft:paper",
+    "count": 3
+  }
+}

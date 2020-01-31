@@ -1,0 +1,26 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:sapphire"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "kilukimod:sapphire"
+    }
+  },
+  "result": {
+    "item": "kilukimod:sapphirebricks",
+    "count": 4
+  }
+}

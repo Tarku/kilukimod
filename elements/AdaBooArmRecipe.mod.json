@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SapphireArmor.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "adabooarmrecipe",
+    "namespace": "mod"
+  }
+}

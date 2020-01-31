@@ -1,0 +1,11 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:smelting",
+  "experience": 36,
+  "ingredient": {
+    "item": "kilukimod:adamantiteore"
+  },
+  "result": {
+    "item": "kilukimod:adamantiteingot"
+  }
+}

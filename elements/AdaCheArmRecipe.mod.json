@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:SapphireArmor.body"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "adachearmrecipe",
+    "namespace": "mod"
+  }
+}

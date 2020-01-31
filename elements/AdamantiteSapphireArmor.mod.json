@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ada_sapphirearmor_head",
+    "enableBody": true,
+    "textureBody": "ada_sapphire_body",
+    "enableLeggings": true,
+    "textureLeggings": "ada_sapphirearmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "ada_sapphirearmor_boots",
+    "onHelmetTick": {
+      "name": "SapphireAdamantiteArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "SapphireAdamantiteArmorHelmetTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "SapphireAdamantiteArmorHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "SapphireAdamantiteArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "adamant_sapphire",
+    "helmetName": "Adamantite Sapphire Helmet",
+    "bodyName": "Adamantite Sapphire Chainmail",
+    "leggingsName": "Adamantite Sapphire Leggings",
+    "bootsName": "Adamantite Sapphire Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 45,
+    "damageValueHelmet": 9,
+    "damageValueBody": 13,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 11,
+    "enchantability": 64,
+    "toughness": 3.4,
+    "equipSound": {
+      "value": "block.anvil.destroy"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      }
+    ]
+  }
+}

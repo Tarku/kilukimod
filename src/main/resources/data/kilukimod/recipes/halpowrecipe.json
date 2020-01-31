@@ -1,0 +1,16 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:hammer"
+    },
+    {
+      "item": "kilukimod:thermonite_crystal"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:thermonite_powder",
+    "count": 2
+  }
+}

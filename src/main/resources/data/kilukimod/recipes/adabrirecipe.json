@@ -1,0 +1,22 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:adamantiteingot"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "kilukimod:adamantiteingot"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:adamantitebricks",
+    "count": 4
+  }
+}

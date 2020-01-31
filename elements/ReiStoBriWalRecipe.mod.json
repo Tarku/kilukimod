@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedStoneBricksWall"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:ReinforcedStoneBricks"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "reistobriwalrecipe",
+    "namespace": "mod"
+  }
+}

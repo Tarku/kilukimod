@@ -1,0 +1,43 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 10.0,
+    "attackSpeed": 0.80901699437,
+    "enchantability": 2,
+    "damageVsEntity": 8.5,
+    "usageCount": 512,
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:HaliteOre"
+      },
+      {
+        "value": "Blocks.COAL_ORE"
+      },
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.WOOL#0"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "onBlockDestroyedWithTool": {
+      "name": "HammerBlockDestroyedWithTool"
+    }
+  }
+}

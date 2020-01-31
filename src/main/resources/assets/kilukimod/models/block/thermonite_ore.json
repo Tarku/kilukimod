@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/hal_ore_2",
+    "up": "kilukimod:blocks/hal_ore_2",
+    "north": "kilukimod:blocks/hal_ore_2",
+    "east": "kilukimod:blocks/hal_ore_2",
+    "south": "kilukimod:blocks/hal_ore_2",
+    "west": "kilukimod:blocks/hal_ore_2",
+    "particle": "kilukimod:blocks/hal_ore_2"
+  }
+}

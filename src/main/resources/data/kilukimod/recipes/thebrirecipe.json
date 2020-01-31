@@ -1,0 +1,22 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "kilukimod:thermonite_crystal"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:thermonitebricks",
+    "count": 4
+  }
+}

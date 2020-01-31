@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:golemarmorhelmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:golemarmorbody",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:golemarmorlegs",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:golemarmorboots",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:enhancedthermonitepowder",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:thermonite_powder",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kilukimod:thermonite_crystal",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nugget",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

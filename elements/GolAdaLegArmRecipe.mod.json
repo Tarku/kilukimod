@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:GolemAdamantiteArmor.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:GolemArmor.legs"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "goladalegarmrecipe",
+    "namespace": "mod"
+  }
+}

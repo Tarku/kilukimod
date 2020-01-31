@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "adamantite_shovel",
+    "customModelName": "Normal",
+    "name": "Adamantite Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 1.98,
+    "enchantability": 2,
+    "damageVsEntity": 45.0,
+    "usageCount": 1024,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "AdamantiteShovelRightClickedOnBlock"
+    }
+  }
+}

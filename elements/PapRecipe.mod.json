@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "Items.PAPER"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WoodPulp"
+      },
+      {
+        "value": "CUSTOM:WoodPulp"
+      },
+      {
+        "value": "CUSTOM:WoodPulp"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "paprecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:adamantiteingot"
+    },
+    {
+      "item": "kilukimod:adamantiteingot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:adamantitesword",
+    "count": 1
+  }
+}

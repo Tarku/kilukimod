@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdamantiteArmor.helmet"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AdamantiteIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "saphelarmrecipe",
+    "namespace": "mod"
+  }
+}

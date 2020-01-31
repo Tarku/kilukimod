@@ -1,0 +1,30 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "1": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "2": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kilukimod:adamantitepickaxe",
+    "count": 1
+  }
+}

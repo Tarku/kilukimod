@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sapphro_adamantite_axe",
+    "customModelName": "Normal",
+    "name": "Sapphire Adamantite Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 25.0,
+    "attackSpeed": 2.5,
+    "enchantability": 50,
+    "damageVsEntity": 12.0,
+    "usageCount": 1850,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Sapphire"
+      }
+    ]
+  }
+}

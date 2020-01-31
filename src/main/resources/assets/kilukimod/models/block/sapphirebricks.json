@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/sapphire_bricks",
+    "up": "kilukimod:blocks/sapphire_bricks",
+    "north": "kilukimod:blocks/sapphire_bricks",
+    "east": "kilukimod:blocks/sapphire_bricks",
+    "south": "kilukimod:blocks/sapphire_bricks",
+    "west": "kilukimod:blocks/sapphire_bricks",
+    "particle": "kilukimod:blocks/sapphire_bricks"
+  }
+}

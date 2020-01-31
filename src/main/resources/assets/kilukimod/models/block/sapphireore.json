@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/sap_or_alt",
+    "up": "kilukimod:blocks/sap_or_alt",
+    "north": "kilukimod:blocks/sap_or_alt",
+    "east": "kilukimod:blocks/sap_or_alt",
+    "south": "kilukimod:blocks/sap_or_alt",
+    "west": "kilukimod:blocks/sap_or_alt",
+    "particle": "kilukimod:blocks/sap_or_alt"
+  }
+}

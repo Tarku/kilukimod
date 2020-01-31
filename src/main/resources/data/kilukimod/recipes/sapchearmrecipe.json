@@ -1,0 +1,39 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "2": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "3": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "4": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "5": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "6": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "7": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "8": {
+      "item": "kilukimod:adamantiteingot"
+    }
+  },
+  "result": {
+    "item": "kilukimod:adamantitearmorbody",
+    "count": 1
+  }
+}

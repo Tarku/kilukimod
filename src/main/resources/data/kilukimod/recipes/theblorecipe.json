@@ -1,0 +1,42 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "1": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "2": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "3": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "4": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "5": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "6": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "7": {
+      "item": "kilukimod:thermonite_crystal"
+    },
+    "8": {
+      "item": "kilukimod:thermonite_crystal"
+    }
+  },
+  "result": {
+    "item": "kilukimod:thermioniteblock",
+    "count": 1
+  }
+}

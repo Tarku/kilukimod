@@ -1,0 +1,42 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:reinforcedstone"
+    },
+    "1": {
+      "item": "kilukimod:enhancedthermonitepowder"
+    },
+    "2": {
+      "item": "kilukimod:reinforcedstone"
+    },
+    "3": {
+      "item": "kilukimod:enhancedthermonitepowder"
+    },
+    "4": {
+      "item": "kilukimod:reinforcedstone"
+    },
+    "5": {
+      "item": "kilukimod:enhancedthermonitepowder"
+    },
+    "6": {
+      "item": "kilukimod:reinforcedstone"
+    },
+    "7": {
+      "item": "kilukimod:enhancedthermonitepowder"
+    },
+    "8": {
+      "item": "kilukimod:reinforcedstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 4
+  }
+}

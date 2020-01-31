@@ -1,0 +1,42 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:sapphire"
+    },
+    "1": {
+      "item": "kilukimod:sapphire"
+    },
+    "2": {
+      "item": "kilukimod:sapphire"
+    },
+    "3": {
+      "item": "kilukimod:sapphire"
+    },
+    "4": {
+      "item": "kilukimod:sapphire"
+    },
+    "5": {
+      "item": "kilukimod:sapphire"
+    },
+    "6": {
+      "item": "kilukimod:sapphire"
+    },
+    "7": {
+      "item": "kilukimod:sapphire"
+    },
+    "8": {
+      "item": "kilukimod:sapphire"
+    }
+  },
+  "result": {
+    "item": "kilukimod:sapphireblock",
+    "count": 1
+  }
+}

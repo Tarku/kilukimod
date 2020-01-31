@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:GolemSapphireArmor.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:GolemArmor.boots"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      },
+      {
+        "value": "CUSTOM:EnhancedThermonitePowder"
+      },
+      {
+        "value": "CUSTOM:SapphireBar"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "golsapbooarmrecipe",
+    "namespace": "mod"
+  }
+}

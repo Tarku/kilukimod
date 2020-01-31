@@ -1,0 +1,22 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:reinforcedstone"
+    },
+    {
+      "item": "kilukimod:reinforcedstone"
+    },
+    {
+      "item": "kilukimod:reinforcedstone"
+    },
+    {
+      "item": "kilukimod:reinforcedstone"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:reinforcedstonebricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnhancedThermonitePowder"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HalitePowder"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HalitePowder"
+      },
+      {
+        "value": "CUSTOM:CoalPowder"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "enhthepowrecipe",
+    "namespace": "mod"
+  }
+}

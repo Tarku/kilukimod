@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kilukimod:blocks/thblock4",
+    "up": "kilukimod:blocks/thblock4",
+    "north": "kilukimod:blocks/thblock4",
+    "east": "kilukimod:blocks/thblock4",
+    "south": "kilukimod:blocks/thblock4",
+    "west": "kilukimod:blocks/thblock4",
+    "particle": "kilukimod:blocks/thblock4"
+  }
+}

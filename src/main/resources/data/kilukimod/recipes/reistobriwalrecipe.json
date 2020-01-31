@@ -1,0 +1,32 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:reinforcedstonebricks"
+    },
+    "1": {
+      "item": "kilukimod:reinforcedstonebricks"
+    },
+    "2": {
+      "item": "kilukimod:reinforcedstonebricks"
+    },
+    "3": {
+      "item": "kilukimod:reinforcedstonebricks"
+    },
+    "4": {
+      "item": "kilukimod:reinforcedstonebricks"
+    },
+    "5": {
+      "item": "kilukimod:reinforcedstonebricks"
+    }
+  },
+  "result": {
+    "item": "kilukimod:reinforcedstonebrickswall",
+    "count": 6
+  }
+}

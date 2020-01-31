@@ -1,0 +1,13 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kilukimod:sapphireblock"
+    }
+  ],
+  "result": {
+    "item": "kilukimod:sapphire",
+    "count": 9
+  }
+}

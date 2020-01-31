@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sapphro_adamantite_pickaxe",
+    "customModelName": "Normal",
+    "name": "Sapphire-Adamantite Pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 35.0,
+    "attackSpeed": 2.5,
+    "enchantability": 50,
+    "damageVsEntity": 6.0,
+    "usageCount": 1850,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Sapphire"
+      }
+    ]
+  }
+}
