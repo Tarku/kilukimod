@@ -1,0 +1,36 @@
+{
+  "group": "kilukimod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "1": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "2": {
+      "item": "kilukimod:adamantiteingot"
+    },
+    "3": {
+      "item": "minecraft:golden_apple"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:golden_apple"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "kilukimod:witcherwand",
+    "count": 1
+  }
+}

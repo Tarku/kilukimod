@@ -17,7 +17,6 @@ import java.util.function.Supplier;
 public class kilukimodVariables {
 	public static class WorldVariables extends WorldSavedData {
 		public static final String DATA_NAME = "kilukimod_worldvars";
-		public double Money = 0;
 
 		public WorldVariables() {
 			super(DATA_NAME);
@@ -29,12 +28,10 @@ public class kilukimodVariables {
 
 		@Override
 		public void read(CompoundNBT nbt) {
-			Money = nbt.getDouble("Money");
 		}
 
 		@Override
 		public CompoundNBT write(CompoundNBT nbt) {
-			nbt.putDouble("Money", Money);
 			return nbt;
 		}
 
@@ -59,6 +56,7 @@ public class kilukimodVariables {
 
 	public static class MapVariables extends WorldSavedData {
 		public static final String DATA_NAME = "kilukimod_mapvars";
+		public double Magical_Power = 0;
 
 		public MapVariables() {
 			super(DATA_NAME);
@@ -70,10 +68,12 @@ public class kilukimodVariables {
 
 		@Override
 		public void read(CompoundNBT nbt) {
+			Magical_Power = nbt.getDouble("Magical_Power");
 		}
 
 		@Override
 		public CompoundNBT write(CompoundNBT nbt) {
+			nbt.putDouble("Magical_Power", Magical_Power);
 			return nbt;
 		}
 

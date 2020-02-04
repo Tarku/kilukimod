@@ -21,7 +21,7 @@ import java.util.Collections;
 
 @Elementskilukimod.ModElement.Tag
 public class MCreatorThermioniteBlock extends Elementskilukimod.ModElement {
-	@ObjectHolder("kilukimod:thermioniteblock")
+	@ObjectHolder("kilukimod:thermonite_block")
 	public static final Block block = null;
 
 	public MCreatorThermioniteBlock(Elementskilukimod instance) {
@@ -39,7 +39,7 @@ public class MCreatorThermioniteBlock extends Elementskilukimod.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.METAL).hardnessAndResistance(8f, 2000f).lightValue(0).harvestLevel(0)
 					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("thermioniteblock");
+			setRegistryName("thermonite_block");
 		}
 
 		@OnlyIn(Dist.CLIENT)

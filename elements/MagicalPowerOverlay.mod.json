@@ -1,0 +1,35 @@
+{
+  "_fv": 5,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "conditionxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"condition_input\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"CONDITION\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value></block></xml>",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "656565dzada.png",
+          "name": "656565dzada.png",
+          "x": -6,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Magical_Power>",
+          "color": {
+            "value": -13421773,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Magical_Power>",
+          "x": 59,
+          "y": 16
+        }
+      }
+    ],
+    "baseTexture": "",
+    "baseTextureW": 0,
+    "baseTextureH": 0
+  }
+}
